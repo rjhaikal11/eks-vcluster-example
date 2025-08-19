@@ -3,7 +3,7 @@ kind: ClusterConfig
 
 metadata:
   name: "eks-vcluster-example"
-  region: "us-west-1"
+  region: "eu-west-1"
   version: "1.33"
   tags:
     karpenter.sh/discovery: "eks-vcluster-example"
